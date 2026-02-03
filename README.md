@@ -1,4 +1,4 @@
-# 🕹️ Analise de Dados  
+# 🌐 Analise de Dados  
 
 Projeto final da Imersão Dev da Alura em Python!
 
